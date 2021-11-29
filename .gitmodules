@@ -1,0 +1,6 @@
+[submodule "FFTASRotationDLL"]
+	path = FFTASRotationDLL
+	url = git@github.com:antops/FFTASRotationDLL.git
+[submodule "common"]
+	path = common
+	url = git@github.com:antops/common.git
